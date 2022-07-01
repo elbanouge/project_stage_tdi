@@ -1,0 +1,442 @@
+.page {
+  padding: 2rem;
+
+  .main-content {
+    .card-body {
+      padding: 2rem;
+      font-size: 15px;
+      line-height: 2;
+    }
+
+    .page-title {
+      display: inline-block;
+      border-bottom: 2px solid #aedfdb;
+      font-size: 20px;
+      margin-bottom: 1rem;
+      padding: 0.25rem 0;
+    }
+
+    .page-text {
+      h2 {
+        font-size: 18px;
+        color: $primary;
+        margin: 1rem;
+      }
+
+      h3 {
+        font-size: 16px;
+        color: $secondary;
+        margin: 1rem 1rem 0.5rem;
+      }
+    }
+  }
+}
+
+.about-page {
+  background: url("../img/bg-2.png") no-repeat;
+  padding: 4rem 0;
+}
+
+.sitemap-page {
+  background: url("../img/bg-2.png") no-repeat;
+  padding: 4rem 0;
+}
+
+.simple-page {
+  background: url("../img/bg-2.png") no-repeat;
+  padding: 4rem 0;
+}
+
+.contact-page {
+  background: url("../img/bg-2.png") no-repeat;
+  padding: 4rem 0;
+
+  .card {
+    max-width: initial;
+  }
+
+  .contact-footer {
+    padding: 0 8px;
+    text-align: left;
+
+    .btn {
+      border-radius: 16px;
+      padding: 4px 16px;
+    }
+  }
+}
+
+.advices-index,
+.recommendations_listing {
+  .article .card-footer{
+    padding: 10px 12px;
+    display: flex;
+  }
+  .article .card-footer .card-views{
+    margin-right: auto;
+    position: relative;
+    top: auto;
+    line-height: 1;
+    font-size: 12px;
+    left: auto;
+  }
+  
+}
+
+.advice-show {}
+
+.photos-page {
+  .nav-pills {
+    justify-content: center;
+    padding: 0;
+    margin: 0 0 1rem 0 !important;
+  }
+
+  .main-content {
+    padding: 1rem 0;
+  }
+
+  .nav-pills .nav-link {
+    font-size: 14px;
+    border-radius: 30px;
+    padding: 8px 16px;
+    min-width: 180px;
+  }
+
+  .item-column {
+    width: 33%;
+    text-align: center;
+    padding: 0.5rem;
+  }
+
+  .modal-dialog {
+    top: 4rem;
+  }
+
+  .mg-next,
+  .mg-prev {
+    padding: 0.5rem;
+    border-radius: 35px;
+  }
+}
+
+.articles-index,
+.recommendations_listing,
+.search-page {
+  .article,
+  .video {
+    max-width: 269px;
+
+    .card-image,
+    .card-img-top {
+      margin: 0;
+      border-radius: 12px 12px 0 0;
+    }
+
+    .card-footer {
+      padding: 10px 12px;
+      display: flex;
+
+      .card-category {
+        position: relative;
+        top: auto;
+        line-height: 1;
+        font-size: 12px;
+
+        a {
+          color: $primary;
+        }
+      }
+
+      .card-views {
+        margin-right: auto;
+        position: relative;
+        top: auto;
+        line-height: 1;
+        font-size: 12px;
+        left: auto;
+      }
+    }
+  }
+
+  .video {}
+}
+
+.articles-show {}
+
+.books-index,
+.recommendations_listing.book {
+  .list-card {
+    text-align: center;
+  }
+}
+
+.books-show {
+  .card-single {
+    .book-download {
+      .btn-download {
+        background: #edebedab;
+        border-radius: 24px;
+        border: none;
+        margin: 1rem 0;
+        padding: 5px 16px;
+      }
+
+      .btn-download:hover {
+        background: #ef68a8;
+        color: $white;
+      }
+
+      img {
+        width: 28px;
+      }
+    }
+  }
+}
+
+.consultations-index,
+.recommendations_listing {
+  .consultation {
+    .card-footer {
+      padding: 10px 12px;
+      display: flex;
+
+      .card-category {
+        position: relative;
+        top: auto;
+        line-height: 1;
+        font-size: 12px;
+
+        a {
+          color: $primary;
+        }
+      }
+
+      .card-views {
+        margin-right: auto;
+        position: relative;
+        top: auto;
+        line-height: 1;
+        font-size: 12px;
+        left: auto;
+      }
+    }
+  }
+}
+
+.consultations-show {
+  .card-single {
+    .card-header {
+      margin: -4px 0 0.75rem -1rem;
+    }
+  }
+}
+
+.questions-create {
+  background: url("../img/bg-2.png") no-repeat;
+  padding: 4rem 0 !important;
+}
+
+.videos-index {}
+
+.videos-show {
+  .card-single {
+    iframe {
+      width: 100%;
+      height: 454px;
+    }
+  }
+}
+
+.sitemap-page {
+  .card .card-body {
+    h2 {
+      font-size: 14px;
+      margin-bottom: 12px;
+
+      .nav-link {
+        padding: 0;
+      }
+    }
+
+    h3 {
+      font-size: 13px;
+      padding-right: 30px;
+      margin-bottom: 12px;
+    }
+  }
+}
+
+.search-page {
+  position: relative;
+
+  .main-content {
+    margin-top: -3.5rem;
+  }
+
+  .article,
+  .video {
+    max-width: 364px;
+  }
+
+  .nav-pills {
+    text-align: center;
+    justify-content: flex-end;
+
+    .nav-link {
+      border-radius: 6px 6px 0 0;
+    }
+  }
+
+  .search-header {
+    position: relative;
+    border-bottom: 2px solid #55bbd5;
+    margin-right: 12px;
+    margin-bottom: 16px;
+
+    h3 {
+      display: inline-block;
+      background: #55bbd5;
+      color: $white;
+      padding: 8px 24px;
+      font-size: 16px;
+      border-radius: 12px 12px 12px 0;
+      margin: 0 -12px -2px 0;
+    }
+  }
+
+  .save-search {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    .btn {
+      border-radius: 32px;
+      border: 1px solid #e5e5e5;
+      background: $white;
+      box-shadow: 0 2px 2px #55bbd51c;
+      margin-bottom: 20px;
+      border-color: #a4bfc68f;
+      padding: 2px 20px;
+    }
+
+    .btn:hover {
+      background-color: #55bbd5;
+      color: $white;
+    }
+  }
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1199.98px) {
+  .articles-index .article,
+  .articles-index .video,
+  .recommendations_listing .article,
+  .recommendations_listing .video {
+    max-width: 224px;
+  }
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991.98px) {
+  .photos-page .nav-pills .nav-link {
+    font-size: 13px;
+    padding: 6px 14px;
+    line-height: 1;
+  }
+
+  .photos-page .item-column {
+    width: 50%;
+    padding: 0.25rem;
+  }
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767.98px) {
+  .page {
+    padding: 2rem 0;
+    background-position: top left;
+    background-size: 120% auto;
+  }
+
+  .page .main-content .card-body {
+    padding: 1rem;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  .card-single .card-body {
+    padding: 2rem 0;
+  }
+
+  .videos-show .card-single iframe {
+    height: 276px;
+  }
+
+  .card-deck {
+    .card {
+      min-width: 100%;
+      margin-bottom: 1rem;
+    }
+  }
+
+  .photos-page .item-column {
+    width: 100%;
+    padding: 0.5rem;
+  }
+
+  .search-page .main-content {
+    margin-top: -54px;
+  }
+
+  .search-page .nav-pills .nav-link {
+    padding: 8px;
+    font-size: 13px;
+  }
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 575.98px) {
+  .page .card-body {
+    padding: 1rem;
+  }
+
+  .books-index .list-card,
+  .recommendations_listing .list-card.book {
+    padding: 1rem;
+    text-align: center;
+
+    img {
+      max-width: 300px;
+    }
+  }
+
+  .book-img {
+    max-width: 300px;
+  }
+
+  .book-download {
+    text-align: center;
+  }
+
+  .videos-show .card-single iframe {
+    height: 220px;
+  }
+
+  .search-page .main-content {
+    margin-top: 0;
+  }
+
+  .search-page .nav-pills .nav-link {
+    padding: 4px 12px;
+    font-size: 13px;
+    border-radius: 20px;
+  }
+
+  .search-page .nav-pills {
+    padding: 0;
+    justify-content: center;
+  }
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+  .videos-show .card-single iframe {
+    height: 153px;
+  }
+}

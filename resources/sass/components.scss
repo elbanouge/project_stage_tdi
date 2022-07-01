@@ -1,0 +1,306 @@
+.load-more {
+	padding: 1rem 0;
+
+	.btn {
+		width: 180px;
+		border-radius: 24px;
+		background-color: $white;
+		padding: 4px;
+		color: $secondary;
+		border: 1px solid #ff3ca84d;
+		box-shadow: 0 8px 8px #d8c5dd38;
+	}
+
+	.btn:hover {
+		background: #ff3ca8;
+		border-color: #ff3ca8;
+		color: $white;
+	}
+}
+
+.content-header {
+	background: #ffffffd1;
+	padding: 0.5rem 0 0;
+	border-bottom: 1px solid #edeaed;
+	margin: 0 0 1rem;
+
+	.container {
+		position: relative;
+	}
+
+	h1 {
+		margin: 1rem 0 0;
+		font-size: 22px;
+		    line-height: 1.5;
+	}
+
+	.breadcrumb {
+		background: none;
+		margin: 0;
+		padding: 0.5rem 0;
+	}
+
+	.breadcrumb .breadcrumb-item.active {
+		color: #d4dae0;
+	}
+
+	.breadcrumb-item + .breadcrumb-item::before {
+		color: #d4dae0;
+		padding-left: 0.5rem;
+	}
+
+	.consultations-categories {
+		position: absolute;
+		bottom: 0.5rem;
+		left: 0.5rem;
+
+		.btn {
+			background: #edebed;
+			border-radius: 24px;
+			border: none;
+			margin: 0 0.5rem;
+			background: url(../img/bg-2.png) no-repeat;
+    padding: 8px 16px;
+    background-position: -156px -8px;
+		}
+
+		.dropdown-menu {
+			text-align: right;
+			height: 360px;
+			overflow-y: scroll;
+		}
+	}
+}
+
+.content-header:after {
+	content: '';
+	display: block;
+	border-bottom: 1px solid $white;
+}
+
+.sidebar-area {
+	.widget {
+		.widget-title {
+			padding: 0.75rem;
+			border-radius: 12px 12px 0 0;
+			border-bottom: 1px solid #cbb8c3;
+			background-color: #ece7ee;
+			text-align: center;
+
+			h5 {
+				margin: 0;
+			}
+		}
+
+		.widget-body {
+			padding: 1rem 1rem 0;
+		}
+
+		.card .card-body {
+			background: $white;
+			margin-bottom: 0;
+			box-shadow: none;
+		}
+	}
+
+	.about-dr {
+		.card-body {
+			text-align: center;
+			img{
+				width: 150px;
+	margin: 1rem 0;
+			}
+			h4{
+				color: $primary;
+			}
+			h5{
+				color: $gray-100;
+				font-size: 14px;
+margin: 1rem 0 .5rem;
+			}
+		}
+	}
+
+	.ask-dr {
+		background: $secondary;
+
+
+		.card-body {
+			padding: 1rem;
+			font-size: 20px;
+			text-align: center;
+		}
+	a{
+		color: $white;
+	}
+	a:hover{
+		color: $white;
+	}
+		img {
+			width: 40px;
+			margin-left: 12px;
+		}
+	}
+
+	.stickies {
+		.card-body {
+			padding: 0;
+		}
+
+		.widget-body {
+			padding: 0.5rem 0;
+
+			.list-card {
+				box-shadow: none;
+				margin-bottom: 0.5rem !important;
+				border-bottom: 1px solid #f6e8f0;
+				border-radius: 0;
+				margin-bottom: 0 !important;
+				padding: 0.5rem;
+
+				.card-title {
+					font-size: 14px;
+					line-height: 1.6;
+				}
+
+				.card-image {
+					margin: 0;
+					border-radius: 2px;
+
+					.card-img {
+						border-radius: 0;
+					}
+				}
+			}
+		}
+	}
+}
+.widget.video{
+	background: $secondary;
+	.card-body{
+		padding: 12px 0;
+	}
+	iframe{
+		width: 269px;
+		height: 150px;
+	}
+}
+.iziToast-wrapper {
+	.iziToast {
+		background-color: #f0f1f2;
+		border-radius: 12px;
+		overflow: hidden;
+		min-height: 65px;
+		padding: 14px 0 15px 45px;
+		box-shadow: 0 12px 20px 0 rgba(122, 127, 132, 0.12);
+	}
+
+	.iziToast:after {
+		box-shadow: none;
+	}
+
+	.iziToast .iziToast-cover {
+		box-shadow: none;
+		border-radius: 50px;
+		margin-right: -55px;
+		background-color: $primary;
+		width: 65px !important;
+	}
+
+	.iziToast.danger .iziToast-cover {
+		background-color: $danger;
+	}
+
+	.iziToast.info .iziToast-cover {
+		background-color: $info;
+	}
+
+	.iziToast.warning .iziToast-cover {
+		background-color: $warning;
+	}
+
+	.iziToast.success .iziToast-cover {
+		background-color: $success;
+	}
+}
+
+.ordering-container {
+	padding: 0.5rem 0;
+	margin-bottom: 1rem;
+	border-bottom: 1px solid #d9d9d9;
+
+	.ordering-title {
+		color: #888;
+		font-family: $font_stack_1;
+
+		h6 {
+			font-size: 15px;
+			margin: 7px 5px 0;
+		}
+	}
+
+	.btn-ordering,
+	.btn-user-type {
+		background: none;
+		border: none;
+		padding: 0;
+	}
+
+	.dropdown-menu {
+		text-align: left;
+		top: 15px !important;
+		left: 50% !important;
+	}
+
+	.btn-grid,
+	.btn-list {
+		background: none;
+		padding: 2px;
+		border-radius: 0;
+		line-height: 1;
+		height: 20px;
+		width: 20px;
+		margin-right: 5px;
+		background-position: center center;
+		background-repeat: no-repeat;
+	}
+
+	.btn-grid {
+		background-image: url("/img/icons/grid.png");
+	}
+
+	.btn-list {
+		background-image: url("/img/icons/list.png");
+	}
+
+	.btn-grid:hover {
+		background-image: url("/img/icons/grid-hover.png");
+	}
+
+	.btn-list:hover {
+		background-image: url("/img/icons/list-hover.png");
+	}
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1199.98px) {
+	.widget.video iframe{
+		width: 224px;
+    height: 126px;
+	}
+	.sidebar-area .ask-dr .card-body{
+		    font-size: 15px;
+	}
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991.98px) {}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767.98px) {
+	.content-header h1 {
+    margin: 0.5rem 0 0;
+    font-size: 18px;
+}
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 575.98px) {}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {}

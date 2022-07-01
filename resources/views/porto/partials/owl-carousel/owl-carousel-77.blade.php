@@ -1,0 +1,20 @@
+<div class="owl-carousel custom-carousel-style-2 mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 1}, '768': {'items': 2}, '992': {'items': 2}, '1200': {'items': 2}}, 'margin': 40, 'loop': true, 'nav': false, 'dots': true}">
+										<div>
+											@include('porto.partials.testimonial.testimonial-54')
+										</div>
+										<div>
+											@include('porto.partials.testimonial.testimonial-55')
+										</div>
+										<div>
+											@include('porto.partials.testimonial.testimonial-56')
+										</div>
+										<div>
+											@include('porto.partials.testimonial.testimonial-57')
+										</div>
+										<div>
+											@include('porto.partials.testimonial.testimonial-58')
+										</div>
+										<div>
+											@include('porto.partials.testimonial.testimonial-59')
+										</div>
+									</div>

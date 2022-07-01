@@ -1,0 +1,5 @@
+<div class="progress mb-3">
+									<div class="progress-bar progress-bar-primary" data-appear-progress-animation="85%" data-appear-animation-delay="300">
+										<span class="progress-bar-tooltip">85%</span>
+									</div>
+								</div>

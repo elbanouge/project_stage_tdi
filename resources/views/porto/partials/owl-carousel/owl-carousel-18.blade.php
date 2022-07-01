@@ -1,0 +1,1 @@
+<div class="custom-instagram-feed-carousel owl-carousel owl-instagram manual" data-items-number="12"></div>

@@ -1,0 +1,1 @@
+<div id="googlemapsAnimatedPin" class="google-map mt-0 mb-0" style="height: 400px;"></div>

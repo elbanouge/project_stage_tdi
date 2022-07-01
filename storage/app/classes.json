@@ -1,0 +1,63 @@
+[
+    {
+        "class" : "header-nav-top"
+    },
+    {
+        "class" : "nav-pills"
+    },
+    {
+        "class" : "feature-box"
+    },
+    {
+        "class" : "header-extra-info"
+    },
+    {
+        "class" : "product"
+    },
+    {
+        "class" : "google-map"
+    },
+    {
+        "class" : "readmore-button-wrapper"
+    },
+    {
+        "class" : "countdown"
+    },
+    {
+        "class" : "process"
+    },
+    {
+        "class" : "progress"
+    },
+    {
+        "class" : "circular-bar"
+    },
+    {
+        "class" : "table"
+    },
+    {
+        "class" : "pricing-table"
+    },
+    {
+        "class" : "call-to-action"
+    },
+    {
+        "class" : "lightbox"
+    },
+    {
+        "class" : "owl-carousel"
+    },
+    {
+        "class" : "tabs"
+    },
+    {
+        "class" : "toggle"
+    },
+    {
+        "id" : "footer"
+    },
+    {
+        "id" : "header"
+    }
+    
+]

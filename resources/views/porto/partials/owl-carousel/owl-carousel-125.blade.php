@@ -1,0 +1,23 @@
+<div class="owl-carousel owl-theme nav-center custom-carousel-arrows-style m-0" data-plugin-options="{'items': 6, 'loop': false, 'dots': false, 'nav': true}">
+							<div>
+								@include('porto.partials.thumb-info.thumb-info-328')
+							</div>
+							<div>
+								@include('porto.partials.thumb-info.thumb-info-329')
+							</div>
+							<div>
+								@include('porto.partials.thumb-info.thumb-info-330')
+							</div>
+							<div>
+								@include('porto.partials.thumb-info.thumb-info-331')
+							</div>
+							<div>
+								@include('porto.partials.thumb-info.thumb-info-332')
+							</div>
+							<div>
+								@include('porto.partials.thumb-info.thumb-info-333')
+							</div>
+							<div>
+								@include('porto.partials.thumb-info.thumb-info-334')
+							</div>
+						</div>

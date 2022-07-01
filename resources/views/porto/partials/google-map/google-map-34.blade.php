@@ -1,0 +1,1 @@
+<div id="googlemapsInsideText" class="google-map small mt-0 mb-0" style="height: 220px;"></div>

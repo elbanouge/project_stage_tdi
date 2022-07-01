@@ -1,0 +1,1 @@
+<div id="googlemapsBorders" class="google-map mt-0 mb-0" style="height: 270px;"></div>

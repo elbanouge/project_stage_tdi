@@ -1,0 +1,1 @@
+<a class="video-open lightbox d-block text-color-light" href="#popup-content-1" data-trigger-play-video="#popupPresentation"><div class="video-open-icon"></div>See How It Works</a>

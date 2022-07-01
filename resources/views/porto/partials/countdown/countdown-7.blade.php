@@ -1,0 +1,1 @@
+<div class="countdown countdown-light" data-plugin-countdown data-plugin-options="{'date': '2022/01/01 12:00:00', 'numberClass': 'font-weight-extra-bold'}"></div>

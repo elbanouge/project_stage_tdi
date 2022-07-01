@@ -1,0 +1,679 @@
+[
+    {
+        "file": "testimonial/testimonial-1.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-2.blade",
+        "folder": "testimonial",
+        "data": {
+            "em": ".testimonial em",
+            "text": ".testimonial p|text|1"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-4.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-8.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-12.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-14.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-15.blade",
+        "folder": "testimonial",
+        "data": {
+            "link": ".testimonial a|href|0",
+            "info": ".testimonial a|text|0",
+            "title": ".testimonial h4",
+            "image": ".testimonial img|src|0",
+            "image1": ".testimonial img|src|1",
+            "text": ".testimonial p|text|0",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-16.blade",
+        "folder": "testimonial",
+        "data": {
+            "link": ".testimonial a|href|0",
+            "info": ".testimonial a|text|0",
+            "title": ".testimonial h4",
+            "image": ".testimonial img|src|0",
+            "image1": ".testimonial img|src|1",
+            "text": ".testimonial p|text|0",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-19.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p|text|0",
+            "text1": ".testimonial p|text|2",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-21.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-22.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-25.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-26.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-27.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "image": ".testimonial img|src|0",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-31.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "image": ".testimonial img|src|0",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-37.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-39.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "image": ".testimonial img|src|0",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-40.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "image": ".testimonial img|src|0",
+            "text1": ".testimonial p|text|2"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-43.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "image": ".testimonial img|src|0"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-45.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-46.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "image": ".testimonial img|src|0",
+            "text1": ".testimonial p|text|2"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-47.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "image": ".testimonial img|src|0",
+            "text1": ".testimonial p|text|2",
+            "text2": ".testimonial p|text|1"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-48.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-49.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-50.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-51.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-52.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-54.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-55.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-56.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-57.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-60.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-61.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-62.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-64.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-66.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-67.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-68.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-72.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-74.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-76.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-77.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-79.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-83.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-84.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-85.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-89.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-90.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-91.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-93.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-94.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-95.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-96.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-98.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial .mb-0",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-100.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial .mb-0",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-102.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial .mb-0",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-107.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial .mb-0",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-109.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p",
+            "text1": ".testimonial p|text|1",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-110.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-112.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-114.blade",
+        "folder": "testimonial",
+        "data": {
+            "link": ".testimonial a|href",
+            "info": ".testimonial a",
+            "text": ".testimonial p"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-115.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-117.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-119.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "text1": ".testimonial p|text|2",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-121.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-124.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-127.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-130.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-131.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-133.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong",
+            "span": ".testimonial span"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-134.blade",
+        "folder": "testimonial",
+        "data": {
+            "image": ".testimonial img|src|0",
+            "text": ".testimonial p",
+            "strong": ".testimonial strong"
+        }
+    },
+    {
+        "file": "testimonial/testimonial-136.blade",
+        "folder": "testimonial",
+        "data": {
+            "text": ".testimonial p"
+        }
+    }
+]

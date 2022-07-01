@@ -1,0 +1,1 @@
+<div id="googlemaps" class="google-map mb-0"></div>

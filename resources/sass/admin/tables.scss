@@ -1,0 +1,154 @@
+table.table tr td,
+table.table tr th {
+    border-color: #e9e9e9;
+    padding: 12px 15px;
+    vertical-align: middle;
+}
+table.table tr .level-1 {
+   padding-right: 1rem;
+}
+table.table tr .level-2 {
+   padding-right: 2rem;
+}
+table.table tr .level-3 {
+   padding-right: 3rem;
+}
+table.table thead tr td,
+table.table thead tr th {
+    padding: 24px 15px 12px;
+    border-top: none;
+}
+
+table.table.reservation tr th:first-child {
+    width: 180px;
+}
+
+table.table tr th:last-child {
+    width: 120px;
+}
+
+table.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #fcfcfc;
+}
+
+table.table-striped.table-hover tbody tr:hover {
+    background: #f5f5f5;
+}
+
+table.table th i {
+    font-size: 13px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+table.table td:last-child i {
+    opacity: 0.9;
+    font-size: 18px;
+    margin: 0 5px;
+}
+
+table.table td a {
+    font-weight: bold;
+    color: #566787;
+    display: inline-block;
+    text-decoration: none;
+    outline: none !important;
+}
+
+table.table td a.badge {
+    color: $white;
+    font-weight: 500;
+}
+table.table td a:hover {
+    color: #2196f3;
+}
+table.table td a.badge:hover {
+    color: $white;
+}
+
+table.table td a.edit {
+    color: #ffc107;
+}
+
+table.table td a.info {
+    color: #17a2b8;
+}
+
+table.table td a.delete {
+    color: #f44336;
+}
+
+table.table td i {
+    font-size: 19px;
+}
+table.table td .external-link i {
+    font-size: 14px;
+}
+
+table.table .avatar {
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+table.table .list-inline-item:not(:last-child) {
+    margin-right: 0;
+}
+table.table tr td img,
+table.table tr th img {
+    max-width: 100%;
+    height: auto;
+}
+table.table td.actions-check,
+table.table th.actions-check {
+    padding-left: 0;
+    padding-right: 0;
+    width: 30px;
+
+    .custom-checkbox {
+        padding: 0 0.75rem;
+        .custom-control-input[type="checkbox"] {
+            margin: 0;
+            height: 1rem;
+            width: 1rem;
+            top: 5px;
+            left: 10px;
+        }
+        .custom-control-label::before {
+            right: 0;
+            margin-left: 0;
+            margin-right: 0;
+            left: 0;
+        }
+        .rtl.custom-control-label::after {
+            left: auto;
+            top: 6px;
+            right: 6px;
+        }
+        .custom-control-label::after {
+            left: 6px;
+            top: 6px;
+            right: auto;
+        }
+        .custom-control-input:checked ~ .custom-control-label::before {
+            color: #fff;
+            border-color: #fe6c6c;
+            background-color: #fe6c6c;
+        }
+    }
+}
+
+.rtl table.table td.actions-check,
+.rtl table.table th.actions-check {
+    .custom-checkbox {
+        .custom-control-label::before {
+            right: 0;
+            margin-left: 10px;
+            margin-right: 0;
+        }
+        .custom-control-label::after {
+            left: auto;
+            top: 6px;
+            right: 6px;
+        }
+    }
+}

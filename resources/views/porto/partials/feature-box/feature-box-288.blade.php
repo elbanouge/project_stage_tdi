@@ -1,0 +1,9 @@
+<div class="feature-box feature-box-style-2 reverse appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
+										<div class="feature-box-icon">
+											<i class="icon-drop icons text-color-primary"></i>
+										</div>
+										<div class="feature-box-info">
+											<h4 class="mb-2">Colors</h4>
+											<p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+										</div>
+									</div>

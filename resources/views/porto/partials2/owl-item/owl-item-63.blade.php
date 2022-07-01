@@ -1,0 +1,1 @@
+<div class="owl-item position-relative" style="background-image: url(img/projects/project-portfolio-2-1.jpg); background-size: cover; background-position: center;"></div>

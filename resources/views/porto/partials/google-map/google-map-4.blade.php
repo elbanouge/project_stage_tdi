@@ -1,0 +1,1 @@
+<div id="googlemaps" class="google-map h-100 m-0" style="min-height: 450px;"></div>

@@ -1,0 +1,20 @@
+<div class="owl-carousel show-nav-title custom-arrows-style-1" data-plugin-options="{'responsive': {'767': {'items': 1}, '1200': {'items': 3}}, 'margin': 15, 'loop': false, 'dots': false, 'nav': true, 'autoHeight': true}">
+									<div>
+										@include('porto.partials.thumb-info.thumb-info-223')
+									</div>
+									<div>
+										@include('porto.partials.thumb-info.thumb-info-224')
+									</div>
+									<div>
+										@include('porto.partials.thumb-info.thumb-info-225')
+									</div>
+									<div>
+										@include('porto.partials.thumb-info.thumb-info-223')
+									</div>
+									<div>
+										@include('porto.partials.thumb-info.thumb-info-224')
+									</div>
+									<div>
+										@include('porto.partials.thumb-info.thumb-info-225')
+									</div>
+								</div>

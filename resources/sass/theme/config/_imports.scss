@@ -1,0 +1,12 @@
+// DIRECTIONAL
+// ---------------------------------------------------------------
+$dir: rtl !default;
+$components: 'header-top', 'footer', 'slider';
+
+// CONFIG
+// ---------------------------------------------------------------
+@import "functions";
+@import "helpers";
+@import "mixins";
+@import "directional";
+@import "variables";

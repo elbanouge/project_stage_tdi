@@ -1,0 +1,1285 @@
+[
+
+
+
+    {
+        "file": "featured-box/featured-box-1.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-2.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-3.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-4.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "svg": ".featured-box svg|xmlns",
+            "link": ".featured-box svg|xlink",
+            "path": ".featured-box path|d",
+            "path1": ".featured-box path|d|1",
+            "title": ".featured-box h3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-5.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "svg": ".featured-box svg|xmlns",
+            "link": ".featured-box svg|xlink",
+            "path": ".featured-box path|d",
+            "title": ".featured-box h3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-6.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "svg": ".featured-box svg|xmlns",
+            "link": ".featured-box svg|xlink",
+            "path": ".featured-box path|d",
+            "title": ".featured-box h3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-7.blade",
+        "folder": "featured-box",
+        "data": {
+            "link": ".featured-box svg|xlink:xlink",
+            "text": ".featured-box p",
+            "svg": ".featured-box svg|xmlns",
+            "path": ".featured-box path|d",
+            "title": ".featured-box h3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-8.blade",
+        "folder": "featured-box",
+        "data": {
+            "image": ".featured-box img|src",
+            "text": ".featured-box p",
+            "title": ".featured-box h3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-9.blade",
+        "folder": "featured-box",
+        "data": {
+            "image": ".featured-box img|src",
+            "text": ".featured-box p",
+            "title": ".featured-box h3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-10.blade",
+        "folder": "featured-box",
+        "data": {
+            "image": ".featured-box img|src",
+            "text": ".featured-box p",
+            "title": ".featured-box h3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-11.blade",
+        "folder": "featured-box",
+        "data": {
+            "link": ".featured-box a|href",
+            "info": ".featured-box a|text",
+            "text": ".featured-box p",
+            "title": ".featured-box h4"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-12.blade",
+        "folder": "featured-box",
+        "data": {
+            "link": ".featured-box a|href",
+            "info": ".featured-box a|text",
+            "text": ".featured-box p",
+            "title": ".featured-box h4"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-13.blade",
+        "folder": "featured-box",
+        "data": {
+            "link": ".featured-box a|href",
+            "info": ".featured-box a|text",
+            "text": ".featured-box p",
+            "title": ".featured-box h4"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-22.blade",
+        "folder": "featured-box",
+        "data": {
+            "link": ".featured-box source|src",
+            "linki": ".featured-box a|href"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-23.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-25.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-26.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-27.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-28.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-29.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-30.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-31.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-32.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-33.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-34.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-35.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-36.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-37.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-38.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-39.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-40.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-41.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-42.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-43.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-44.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-45.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-46.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-47.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-48.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-49.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-50.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-51.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-52.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-53.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-54.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-55.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-56.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-57.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-58.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-59.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-60.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-61.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-62.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-63.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-64.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-65.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-66.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-67.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-68.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-69.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "span": ".featured-box span|text|3"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-70.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "image": ".featured-box img|src",
+            "span": ".featured-box p"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-71.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-161.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h4|text|0",
+            "label": ".featured-box label|text|0",
+            "label1": ".featured-box label|text|1",
+            "label3": ".featured-box label|text|2"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-206.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h4|text|0",
+            "label": ".featured-box label|text|0",
+            "text": ".featured-box p"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-251.blade",
+        "folder": "featured-box",
+        "data": {
+            "linki": ".featured-box a|href",
+            "info": ".featured-box a",
+            "title": ".featured-box h4|text|0",
+            "label": ".featured-box label|text|0",
+            "label1": ".featured-box label|text|1",
+            "label3": ".featured-box label|text|2"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-296.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h2|text|0",
+            "button": ".featured-box button",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-297.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h2|text|0",
+            "button": ".featured-box button",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-298.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h2|text|0",
+            "button": ".featured-box button",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-299.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h2|text|0",
+            "button": ".featured-box button",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-300.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h4|text|0",
+            "text1": ".featured-box p|text|1",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-301.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h4|text|0",
+            "text1": ".featured-box p|text|1",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-302.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h4|text|0",
+            "text1": ".featured-box p|text|1",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-303.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h4|text|0",
+            "text1": ".featured-box p|text|1",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-304.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h4|text|0",
+            "text1": ".featured-box p|text|1",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-305.blade",
+        "folder": "featured-box",
+        "data": {
+            "title": ".featured-box h4|text|0",
+            "text1": ".featured-box p|text|1",
+            "text": ".featured-box p",
+            "strong": ".featured-box strong"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-306.blade",
+        "folder": "featured-box",
+        "data": {
+    
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-307.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-308.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-309.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-311.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-312.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-313.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-314.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-315.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-316.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-317.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-318.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-319.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-320.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-321.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-322.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-323.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-324.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-325.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-326.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-327.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-328.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-329.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-330.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-331.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-336.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-337.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-338.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-339.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-340.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-341.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-342.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-343.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-344.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-345.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-346.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-347.blade",
+        "folder": "featured-box",
+        "data": {
+            "strong": ".featured-box strong",
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-440.blade",
+        "folder": "featured-box",
+        "data": {
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h3|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-441.blade",
+        "folder": "featured-box",
+        "data": {
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h3|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-442.blade",
+        "folder": "featured-box",
+        "data": {
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h3|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-443.blade",
+        "folder": "featured-box",
+        "data": {
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h3|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-444.blade",
+        "folder": "featured-box",
+        "data": {
+            "span": ".featured-box span",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-445.blade",
+        "folder": "featured-box",
+        "data": {
+            "span": ".featured-box span",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-446.blade",
+        "folder": "featured-box",
+        "data": {
+            "span": ".featured-box span",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-447.blade",
+        "folder": "featured-box",
+        "data": {
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-448.blade",
+        "folder": "featured-box",
+        "data": {
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-449.blade",
+        "folder": "featured-box",
+        "data": {
+            "info": ".featured-box a",
+            "text": ".featured-box p",
+            "title": ".featured-box h2|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-450.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-451.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-452.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-453.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-454.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-455.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-456.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-457.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-458.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-459.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-460.blade",
+        "folder": "featured-box",
+        "data": {
+            "link": ".featured-box a|href",
+            "image": ".featured-box img|src|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-461.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-462.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-463.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-465.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-466.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-467.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-468.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-469.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-470.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-471.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-472.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-473.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-474.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box-475.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    },
+    {
+        "file": "featured-box/featured-box.blade",
+        "folder": "featured-box",
+        "data": {
+            "text": ".featured-box p",
+            "title": ".featured-box h4|text|0"
+        }
+    }
+    ]

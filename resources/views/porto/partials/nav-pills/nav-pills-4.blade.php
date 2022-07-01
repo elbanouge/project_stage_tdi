@@ -1,0 +1,5 @@
+<ul class="nav nav-pills sort-source mb-4" data-sort-id="team" data-option-key="filter" data-plugin-options="{'layoutMode': 'masonry', 'filter': '*'}">
+									<li class="nav-item active" data-option-value="*"><a class="active btn btn-outline custom-border-width btn-primary custom-border-radius custom-border-radius-small text-uppercase mr-2 mb-2" href="#">Show All</a></li>
+									<li class="nav-item" data-option-value=".leadership"><a class="btn btn-outline custom-border-width btn-primary custom-border-radius custom-border-radius-small text-uppercase mr-2 mb-2" href="#">Leadership</a></li>
+									<li class="nav-item" data-option-value=".other"><a class="btn btn-outline custom-border-width btn-primary custom-border-radius custom-border-radius-small text-uppercase mr-2 mb-2" href="#">Other</a></li>
+								</ul>

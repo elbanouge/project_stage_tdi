@@ -1,0 +1,1 @@
+<div id="googleMapsMicro" class="google-map m-0" style="height: 280px;"></div>

@@ -1,0 +1,53 @@
+[
+    {
+        "class" : "header-nav"
+    },
+    {
+        "class" : "header-social-icons"
+    },
+    {
+        "class" : "header-logo"
+    },
+
+
+    {
+        "class" : "page-header"
+    },
+    {
+        "class" : "sidebar"
+    },
+    {
+        "class" : "pagination"
+    },
+
+ 
+    {
+        "class" : "portfolio-item"
+    },
+    {
+        "class" : "footer-copyright"
+    },
+    {
+        "class" : "post"
+    },
+
+    {
+        "class" : "featured-box"
+    },
+    {
+        "class" : "header-nav-feature"
+    },
+    {
+        "class" : "counter"
+    },
+
+    {
+        "class" : "testimonial"
+    },
+    {
+        "class" : "thumb-info"
+    },
+    {
+        "class" : "owl-item"
+    }
+]

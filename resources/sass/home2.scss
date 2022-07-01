@@ -1,0 +1,84 @@
+.home-page{
+
+  .home-slider{
+    background: #fff;
+    margin-bottom: 2rem;
+    border-radius: 0.25rem;
+    box-shadow: 0 5px 4px #d1d5da5c;
+    .carousel-item {
+      min-height: 340px;
+    }
+  }
+  .hs-title{
+    h2{
+      font-weight: 600;
+      font-size: 1rem;
+      background: #6094f5;
+      margin: 0.75rem 0;
+      padding: 0.75rem;
+      line-height: 1;
+      border-radius: 4px;
+      color: #fff;
+      box-shadow: 0 5px 4px #aed1fd5c;
+      border-right: 3px solid #315eb3;
+    }
+  }
+  .hs-more{
+    text-align: left;
+    .btn{
+      font-weight: 700 !important;
+    background: #fff;
+    border-color: #d2d3d4;
+    }
+  }
+
+  .home-buttons{
+    .btn{
+      box-shadow: 0 5px 4px #d1d5da5c;
+      background: #fff;
+      border-color: #dbe2ef;
+      margin-bottom: 1rem;
+    }
+    .btn:hover{
+      color: #333;
+    }
+  }
+
+  .home-aside{
+    font-weight: 600;
+    font-size: 1rem;
+    background: #fff;
+    margin: 0.75rem 0;
+    padding: 0.75rem;
+    line-height: 1;
+    border-radius: .5rem;
+    box-shadow: 0 5px 4px #d1d5da5c;
+    .ha-title{
+      h2{
+        border-bottom: 2px solid #cbcbcc;
+        font-size: 1.25rem;
+        padding: 0 0 .35rem 0;
+        margin: 0;
+      }
+    }
+  }
+
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1199.98px) {
+
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991.98px) {
+
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767.98px) {
+
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 575.98px) {
+
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {}
